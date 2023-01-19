@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T07:44:05.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="jpM7Krxve3i-e46eiXYp" type="github"><diagram id="wcgkRMwfBmP6BseYG3Z3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-19T03:46:55.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="RZ8QxHf9bIwY7Wc-szLS" type="github">
+  <diagram id="GxttmM2nWf37i5AqG_rr" name="페이지-1">
+    <mxGraphModel dx="1078" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-1" value="&lt;div&gt;디지털 마커 수집 분석 서버 및 인터페이스 개발 (앱/웹) (도식 필)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-38" value="서비 및 인터페이스로 전달" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="770" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-41" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="70" width="770" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-40" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#00882B;strokeWidth=4;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry width="770" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-3" value="디지털 마커 수집" style="fontStyle=1;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#919191;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="10" y="50" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-6" value="신체활동/행동&lt;br&gt;데이터" style="shape=datastore;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-3">
+          <mxGeometry x="30" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-10" value="언어 데이터&lt;br&gt;(비정형 데이터)" style="shape=datastore;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-3">
+          <mxGeometry x="30" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-11" value="언어 데이터&lt;br&gt;및 로그" style="shape=datastore;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-3">
+          <mxGeometry x="30" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-36" value="디지털 마커 수집" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontStyle=1" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-3">
+          <mxGeometry y="-40" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-12" value="실시간 데이터 &lt;br&gt;수집 및 저장" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-3" target="2e5VoWkbKIWHHOgVzT3Q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-15" target="2e5VoWkbKIWHHOgVzT3Q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-14" value="사전에 디지털 마커 &lt;br&gt;선정" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="210" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-17" value="&lt;b&gt;데&lt;br&gt;이&lt;br&gt;터&lt;br&gt;&amp;nbsp;&lt;br&gt;전&lt;br&gt;처&lt;br&gt;리&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="370" y="50" width="50" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-12" target="2e5VoWkbKIWHHOgVzT3Q-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-21" value="인공지능" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontStyle=1" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="450" y="50" width="80" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-17" target="2e5VoWkbKIWHHOgVzT3Q-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-14" target="2e5VoWkbKIWHHOgVzT3Q-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="270" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-15" value="그 밖에 환경 요소&lt;br&gt;선정" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-25" value="우울 감정과 상관관계" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=3;fontStyle=1" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="570" y="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-21" target="2e5VoWkbKIWHHOgVzT3Q-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-26" value="사용자 행동 예측" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=3;fontStyle=1" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="570" y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-21" target="2e5VoWkbKIWHHOgVzT3Q-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-27" value="사용자 활동 패턴 분석" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=3;fontStyle=1" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="570" y="190" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-21" target="2e5VoWkbKIWHHOgVzT3Q-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-28" value="사용자 맞춤&lt;br&gt;알고리즘&lt;br&gt;구축" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="570" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-21" target="2e5VoWkbKIWHHOgVzT3Q-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-29" value="디지털 &lt;br&gt;마커 분석" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=3;fontStyle=1" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="670" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2e5VoWkbKIWHHOgVzT3Q-41" source="2e5VoWkbKIWHHOgVzT3Q-28" target="2e5VoWkbKIWHHOgVzT3Q-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-37" value="디지털 마커 분석" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontStyle=1" vertex="1" parent="2e5VoWkbKIWHHOgVzT3Q-41">
+          <mxGeometry x="370" y="10" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2e5VoWkbKIWHHOgVzT3Q-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="2e5VoWkbKIWHHOgVzT3Q-40" target="2e5VoWkbKIWHHOgVzT3Q-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
